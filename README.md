@@ -75,4 +75,3 @@ Contributions are welcome! To contribute:
 2. Create a new branch for your feature.
 3. Make your changes and commit them.
 4. Open a pull request.
-```
